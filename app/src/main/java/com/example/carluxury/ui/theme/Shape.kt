@@ -2,10 +2,9 @@ package com.example.carluxury.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
-import androidx.compose.ui.unit.dp
 
 val Shapes = Shapes(
-    small = RoundedCornerShape(4.dp),
-    medium = RoundedCornerShape(16.dp),
-    large = RoundedCornerShape(24.dp)
+    small = RoundedCornerShape(15),
+    medium = RoundedCornerShape(25),
+    large = RoundedCornerShape(50)
 )
