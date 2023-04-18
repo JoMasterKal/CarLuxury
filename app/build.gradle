@@ -65,4 +65,7 @@ dependencies {
 
     // coil
     implementation "io.coil-kt:coil-compose:2.2.2"
+
+    //rating bar
+    implementation 'com.github.a914-gowtham:compose-ratingbar:1.2.4'
 }
