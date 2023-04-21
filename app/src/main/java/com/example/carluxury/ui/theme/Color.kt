@@ -3,10 +3,10 @@ package com.example.carluxury.ui.theme
 import androidx.compose.ui.graphics.Color
 
 //light color
-val orange1 = Color(0xFFF9B398)
+val orange1 = Color(0xFFFCB495)
 val orange2 = Color(0xFFFBD1C1)
 val orange3 = Color(0xFFD0886E)
-val mallow1 = Color(0xFF4B4960)
+val mallow1 = Color(0xFF3F3D56)
 val white = Color(0xFFFFFFFF)
 val black = Color(0xFF0000000)
 val grey1 = Color(0xFF393939)
