@@ -12,7 +12,6 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.carluxury.ui.screens.carDetail.DetailScreen
 import com.example.carluxury.ui.screens.home.Car
-import com.example.carluxury.ui.screens.home.HomeScreen
 import com.example.carluxury.ui.theme.CarLuxuryTheme
 
 class MainActivity : ComponentActivity() {
@@ -31,7 +30,7 @@ class MainActivity : ComponentActivity() {
                         name = "lamborghini",
                         description = "this is a car for your life",
                         price = 600000.0,
-                        about = ""
+                        about = "the car beautiful car for you and your family"
                     ))
                 }
             }
